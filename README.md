@@ -13,16 +13,16 @@ I am a **Machine Learning Engineer** with expertise in **demand forecasting, NLP
 
 ## 📂 Projects
 
-### 🔹 [UWingine: University Policy and Academic Info Chatbot](https://github.com/yourgithub/Uwingine)
+### 🔹 [UWingine: University Policy and Academic Info Chatbot](https://github.com/Hggreat/Uwingine)
 Developed an **LLM-powered chatbot** that simplifies access to university policies, bylaws, and academic documents.
 
-### 🔹 [Healthcare Chatbot](https://github.com/yourgithub/Healthcare-chatbot)
+### 🔹 [Healthcare Chatbot](https://github.com/Hggreat/HealthCare-Chatbot)
 An AI-powered healthcare chatbot to provide medical guidance based on symptoms using **NLP & Transformers**.
 
-### 🔹 [Sentiment Analysis on Stocks](https://github.com/yourgithub/Sentiment-Analysis-on-Stocks)
+### 🔹 [Sentiment Analysis on Stocks](https://github.com/Hggreat/Sentiment-Analysis-on-Stocks)
 A deep learning solution using **BERT & PyTorch** to analyze stock market sentiment based on news headlines.
 
-### 🔹 [Movie Recommendation System](https://github.com/yourgithub/Movie-recommendation-system)
+### 🔹 [Movie Recommendation System](https://github.com/Hggreat/Movie-recommendation-system)
 Built a **content-based filtering system** to recommend movies using **TF-IDF & Cosine Similarity**.
 
 ## 🛠️ Technical Skills
