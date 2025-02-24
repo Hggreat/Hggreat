@@ -25,6 +25,10 @@ A deep learning solution using **BERT & PyTorch** to analyze stock market sentim
 ### 🔹 [Movie Recommendation System](https://github.com/Hggreat/Movie-recommendation-system)
 Built a **content-based filtering system** to recommend movies using **TF-IDF & Cosine Similarity**.
 
+### 🔹 [Whatsapp chat analyzer](https://github.com/Hggreat/Whatsapp_chat_analyzer)
+A tool to **upload and analyze WhatsApp chat exports**, providing insights into chat activity, user interactions, and message trends through **visualizations and statistics**.
+
+
 ## 🛠️ Technical Skills
 - **Languages**: Python, C/C++, JavaScript, SQL, R
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, Transformers, Keras, OpenAI Gym, NLTK, Spacy
