@@ -5,7 +5,7 @@ I am a **Machine Learning Engineer** with expertise in **demand forecasting, NLP
 
 ## 🚀 About Me
 - 🎓 **Graduated in 2023 from Delhi Technological University (DTU)**
-  ![DTU Logo](https://upload.wikimedia.org/wikipedia/en/5/5f/Delhi_Technological_University_logo.png)
+  
 - 📊 Led a demand forecasting project for **Victoria’s Secret**, creating a LightGBM model with **95% accuracy**, reducing inventory overstock by **20%**.
 - 🤖 Developing an AI chatbot for **Ultimate Drivers**, leveraging NLP techniques to enhance learning experiences.
 - 📡 Built a **Smart Payment Routing** system using reinforcement learning at **Boxpay Technologies**, improving transaction success rates by **15%**.
